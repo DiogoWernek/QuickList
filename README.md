@@ -22,3 +22,5 @@ Add new items to the shopping list.
 *• JavaScript*
 
 **This project helps demonstrate fundamental skills in front-end development and working with the DOM.**
+
+<img src="https://github.com/user-attachments/assets/be8a5470-fa6d-4945-8b6d-a511ef32e814" /> 
