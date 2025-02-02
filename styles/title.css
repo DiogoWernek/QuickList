@@ -4,6 +4,7 @@
 
   a {
     font: var(--label);
+    text-decoration: none;
     color: var(--color-brand);
   }
 
